@@ -3,3 +3,14 @@
 Purchase is the simplest form of content creation. You simply buy something and tell the world about your values and what products are valuable
 
 The ultimate goal is to reward creators for creating quality content. The person who shares their purchase becomes a nexus of information connecting potential buyers to the product. 
+
+== MVP
+- [ ] Login
+- [ ] Add a credit card
+- [ ] Review recent financial transactions on credit card
+- [ ] Tweet with template
+
+== Future Features
+- [ ] Attaching images to Tweets
+- [ ] Mobile experience
+
